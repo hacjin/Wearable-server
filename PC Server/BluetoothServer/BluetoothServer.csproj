@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9EEA0C04-0A65-4770-BB77-8E93A37B2A58}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BluetoothServer</RootNamespace>
+    <AssemblyName>BluetoothServer</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="InTheHand.Net.Personal">
+      <HintPath>..\packages\32feet.NET.3.5.0.0\lib\net\InTheHand.Net.Personal.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form\BoardForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form\BoardForm.Designer.cs">
+      <DependentUpon>BoardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\AudioControl.cs" />
+    <Compile Include="Classes\IconHelper.cs" />
+    <Compile Include="Form\IconMarkForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\IconMarkForm.Designer.cs">
+      <DependentUpon>IconMarkForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\IconSlideForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\IconSlideForm.Designer.cs">
+      <DependentUpon>IconSlideForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Motion.cs" />
+    <Compile Include="Classes\MotionFuc.cs" />
+    <Compile Include="Classes\MouseControl.cs" />
+    <Compile Include="Classes\Processcheck.cs" />
+    <Compile Include="Classes\processnamelist.cs" />
+    <Compile Include="Classes\Program.cs" />
+    <Compile Include="Classes\ProgramMark.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Form\SplashScreenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\SplashScreenForm.Designer.cs">
+      <DependentUpon>SplashScreenForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\SettingMotionForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form\SettingMotionForm.Designer.cs">
+      <DependentUpon>SettingMotionForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form\BoardForm.resx">
+      <DependentUpon>BoardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\IconMarkForm.resx">
+      <DependentUpon>IconMarkForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\IconSlideForm.resx">
+      <DependentUpon>IconSlideForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Form\SplashScreenForm.resx">
+      <DependentUpon>SplashScreenForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\SettingMotionForm.resx">
+      <DependentUpon>SettingMotionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lookout.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avast.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chrome.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cs5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eclipse.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kakaotalk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\not.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notepad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photoshop.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\server.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tomcat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rainmeter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skype.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gombtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mariobtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pptbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pptbtn1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\markbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GOM.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftrotation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightrotation.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

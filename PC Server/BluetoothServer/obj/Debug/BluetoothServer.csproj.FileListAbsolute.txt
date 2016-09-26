@@ -1,0 +1,422 @@
+c:\users\daehyun\documents\visual studio 2013\Projects\BluetoothServer\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+c:\users\daehyun\documents\visual studio 2013\Projects\BluetoothServer\BluetoothServer\bin\Debug\BluetoothServer.exe
+c:\users\daehyun\documents\visual studio 2013\Projects\BluetoothServer\BluetoothServer\bin\Debug\BluetoothServer.pdb
+c:\users\daehyun\documents\visual studio 2013\Projects\BluetoothServer\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+c:\users\daehyun\documents\visual studio 2013\Projects\BluetoothServer\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+c:\users\daehyun\documents\visual studio 2013\Projects\BluetoothServer\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+c:\users\daehyun\documents\visual studio 2013\Projects\BluetoothServer\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+c:\users\daehyun\documents\visual studio 2013\Projects\BluetoothServer\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+c:\users\daehyun\documents\visual studio 2013\Projects\BluetoothServer\BluetoothServer\obj\Debug\BluetoothServer.exe
+c:\users\daehyun\documents\visual studio 2013\Projects\BluetoothServer\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Desktop\BluetoothServer\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Desktop\BluetoothServer\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Desktop\BluetoothServer\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServer6\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServer6\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServer6\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServer6\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServer6\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServer6\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServer6\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServer6\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServer6\BluetoothServer\obj\Debug\BluetoothServer.Form1.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServer6\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServer6\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2013\Projects\BluetoothServer\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2013\Projects\BluetoothServer\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2013\Projects\BluetoothServer\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2013\Projects\BluetoothServer\BluetoothServer\obj\Debug\BluetoothServer.SettingForm.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServerDD\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServerDD\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServerDD\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServerDD\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServerDD\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.SettingForm.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BluetoothServerDD\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\Administrator\Desktop\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\Administrator\Desktop\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.SettingForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD - 복사본 (2)\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD - 복사본 (2)\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD - 복사본 (2)\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD 블루투스 연결\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD 블루투스 연결\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD 블루투스 연결\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD 블루투스 연결\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD 블루투스 연결\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.SettingForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServerDD 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 블루투스 연결\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\hacjin\Desktop\BluetoothServer 블루투스 연결\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\hacjin\Desktop\BluetoothServer 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\hacjin\Desktop\BluetoothServer 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\hacjin\Desktop\BluetoothServer 블루투스 연결\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\hacjin\Desktop\BluetoothServer 블루투스 연결\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\hacjin\Desktop\BluetoothServer 블루투스 연결\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\hacjin\Desktop\BluetoothServer 블루투스 연결\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\hacjin\Desktop\BluetoothServer 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\hacjin\Desktop\BluetoothServer 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\hacjin\Desktop\BluetoothServer 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\hacjin\Desktop\BluetoothServer 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\hacjin\Desktop\BluetoothServer 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.SettingForm.resources
+C:\Users\hacjin\Desktop\BluetoothServer 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\hacjin\Desktop\BluetoothServer 블루투스 연결\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 2.13 최종 연결완료\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 2.13 최종 연결완료\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 2.13 최종 연결완료\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 2.13 최종 연결완료\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 2.13 최종 연결완료\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 2.13 최종 연결완료\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 2.13 최종 연결완료\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 2.13 최종 연결완료\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 2.13 최종 연결완료\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 2.13 최종 연결완료\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 2.13 최종 연결완료\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 2.13 최종 연결완료\BluetoothServer\obj\Debug\BluetoothServer.SettingForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 2.13 최종 연결완료\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 2.13 최종 연결완료\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중\BluetoothServer\obj\Debug\BluetoothServer.SettingForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.SettingForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.09 프로세서 제어 연결중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\obj\Debug\BluetoothServer.SettingForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.10 커스터마이징 모션 80퍼\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\obj\Debug\BluetoothServer.SettingForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.11 마우스 컨트롤 완료\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\obj\Debug\BluetoothServer.SettingForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.19 이제 뭐하지\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성 - 복사본\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성 - 복사본\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성 - 복사본\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성 - 복사본\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성 - 복사본\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.23 메뉴 완성\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.28 메뉴 정리 끝\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.28 메뉴 정리 끝\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.28 메뉴 정리 끝\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.30 모드 추가중 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.IconMarkForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\obj\Debug\BluetoothServer.IconMarkForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 90퍼 진행중\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\obj\Debug\BluetoothServer.IconMarkForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 03.31 프로그램 실행 완성\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\obj\Debug\BluetoothServer.IconMarkForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커 - 복사본\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.06 블루투스 스피커 - 복사본\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\obj\Debug\BluetoothServer.IconMarkForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.08 오류 수정중\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\obj\Debug\BluetoothServer.IconMarkForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 04.29 모션 정규화\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\obj\Debug\BluetoothServer.IconMarkForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.08 에러 처리\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\obj\Debug\BluetoothServer.IconMarkForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.09 프로세스 민감도\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\obj\Debug\BluetoothServer.IconMarkForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 회전\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.IconMarkForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\daehyun\Documents\Visual Studio 2015\Projects\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.exe
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.pdb
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\bin\Debug\BluetoothServer.exe
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\bin\Debug\BluetoothServer.pdb
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.IconMarkForm.resources
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+D:\취업준비\졸업작품\server\BluetoothServer 05.12 마우스 클릭\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
+D:\취업준비\졸업작품\server\BluetoothServer 05.19 모드 NONE 넣음\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+D:\취업준비\졸업작품\server\BluetoothServer 05.19 모드 NONE 넣음\BluetoothServer\obj\Debug\BluetoothServer.exe
+D:\취업준비\졸업작품\server\BluetoothServer 05.19 모드 NONE 넣음\BluetoothServer\obj\Debug\BluetoothServer.pdb
+D:\취업준비\졸업작품\server\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+D:\취업준비\졸업작품\server\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\obj\Debug\BluetoothServer.exe
+D:\취업준비\졸업작품\server\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\bin\Debug\BluetoothServer.exe.config
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\obj\Debug\BluetoothServer.exe
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\obj\Debug\BluetoothServer.pdb
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\bin\Debug\BluetoothServer.exe
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\bin\Debug\BluetoothServer.pdb
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\obj\Debug\BluetoothServer.csprojResolveAssemblyReference.cache
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\obj\Debug\BluetoothServer.BoardForm.resources
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\obj\Debug\BluetoothServer.IconMarkForm.resources
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\obj\Debug\BluetoothServer.IconSlideForm.resources
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\obj\Debug\BluetoothServer.MainForm.resources
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\obj\Debug\BluetoothServer.Properties.Resources.resources
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\obj\Debug\BluetoothServer.SplashScreenForm.resources
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\obj\Debug\BluetoothServer.SettingMotionForm.resources
+C:\Users\hacjin\Desktop\실무\5.15일 최신\BluetoothServer 05.19 모드 NONE 넣음 + 슬리더\BluetoothServer\obj\Debug\BluetoothServer.csproj.GenerateResource.Cache
